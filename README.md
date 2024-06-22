@@ -1,6 +1,6 @@
 # Monthly Active User Growth Accounting
 
-This project analyzes the Monthly Active User (MAU) growth over a 14-month period (every 4 weeks is a month). It focuses on key metrics like New Users, Resurrected Users, Churned Users, Quick Ratio, and Retention Rate to understand the dynamics of user base changes and the effectiveness of user engagement strategies.
+This project analyzes the Monthly Active User (MAU) growth over 14 months (every 4 weeks is a month). It focuses on key metrics like New Users, Resurrected Users, Churned Users, Quick Ratio, and Retention Rate to understand the dynamics of user base changes and the effectiveness of user engagement strategies.
 
 ## Key Metrics
 
@@ -40,12 +40,12 @@ This project analyzes the Monthly Active User (MAU) growth over a 14-month perio
 ## Visualization Plan
 
 - **Stacked Bar Chart**: 
-  - Display New Users and Resurrected Users stacked on top of each other, with Churned Users shown as bars extending below the baseline.
+  - To display New Users and Resurrected Users stacked on top of each other, with Churned Users shown as bars extending below the baseline.
   
 - **Line Plot**:
-  - Overlay line plots for Quick Ratio and Retention Rate to show trends over the months.
+  - To overlay line plots for Quick Ratio and Retention Rate to show trends over the months.
 
-The combination of these visualizations will provide a comprehensive view of user growth dynamics and the effectiveness of user engagement strategies over time.
+The combination of these visualizations will provide us with a comprehensive view of user growth dynamics and the effectiveness of user engagement strategies over time.
 
 ## Summary
 
